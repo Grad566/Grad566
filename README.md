@@ -9,7 +9,7 @@ I understand OOP, know java se well, know how to use git and gitHub Actions, and
 * 🌍  I'm based in Ekaterinburg
 * ✉️  You can contact me at [3008denis@gmail.com](mailto:3008denis@gmail.com)
 * 🚀  I'm currently working on [Data Validator training project](http://github.com/Grad566/Data-Validator)
-* 🧠  I'm learning the basics of CSS and Html
+* 🧠  I'm learning the basics of CSS and HTML
 
 ### Skills
 
