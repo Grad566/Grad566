@@ -10,6 +10,8 @@ I understand OOP, know java se well, know how to use git and gitHub Actions, and
 * ✉️  You can contact me at [3008denis@gmail.com](mailto:3008denis@gmail.com)
 * 🚀  I'm currently working on [auto-backend-trainee-assignment](http://github.com/Grad566/auto-backend-trainee-assignment)
 * 🧠  I'm learning Spring boot
+* 💼  My pet projects: [Page-Analyzer](https://github.com/Grad566/Page-Analyzer), [Data-validator](https://github.com/Grad566/Data-validator), [Difference-Calculator](https://github.com/Grad566/Difference-Calculator), [Mind-games](https://github.com/Grad566/Mind-games)
+* 📗  My test assignments: [auto-backend-trainee-assignment](https://github.com/Grad566/auto-backend-trainee-assignment)
 
 ### Skills
 
