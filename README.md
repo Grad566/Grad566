@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis Orekhov
+![image](https://github.com/Grad566/Grad566/assets/153913754/b29a8aa6-fb3b-47b0-aa0b-85621152c374)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis Orekhov
 =====================================================================================================================================
 
 Java Backend Developer
@@ -10,6 +10,8 @@ I understand OOP, know java se well, know how to use git and gitHub Actions, and
 * ✉️  You can contact me at [3008denis@gmail.com](mailto:3008denis@gmail.com)
 * 🚀  I'm currently working on [auto-backend-trainee-assignment](http://github.com/Grad566/auto-backend-trainee-assignment)
 * 🧠  I'm learning Spring boot
+* 💼  My pet projects: [Page-Analyzer](https://github.com/Grad566/Page-Analyzer), [Data-validator](https://github.com/Grad566/Data-validator), [Difference-Calculator](https://github.com/Grad566/Difference-Calculator), [Mind-games](https://github.com/Grad566/Mind-games)
+* 📗  My test assignments: [auto-backend-trainee-assignment](https://github.com/Grad566/auto-backend-trainee-assignment)
 
 ### Skills
 
