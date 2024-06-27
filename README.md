@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Backend Developer
 ----------------------
 
-I understand OOP, know java se well, know how to use git and gitHub Actions, and work with unix systems. I have written several training and tets projects. I have a management background, a bachelor's degree and an unfinished master's degree, so I understand how business processes work and how business in general works. Now I am studying in Hexlet on the program "java-developer", additionally studying a course on algorithms and data structures, as well as reading specialized literature.
+I understand OOP, know java se well, know how to use git and gitHub Actions, know Docker, and work with unix systems. I have written several training and test assignments. I have a management background, a bachelor's degree and an unfinished master's degree, so I understand how business processes work and how business in general works. Now I am studying in Hexlet on the program "java-developer", additionally studying a course on algorithms and data structures, as well as reading specialized literature.
 
 * 🌍  I'm based in Ekaterinburg
 * ✉️  You can contact me at [3008denis@gmail.com](mailto:3008denis@gmail.com)
