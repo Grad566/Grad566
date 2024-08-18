@@ -33,7 +33,7 @@ I understand OOP, know java se well, know how to use git and gitHub Actions, kno
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Grad566/Page-Analyzer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grad566&repo=Page-Analyzer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Grad566/Data-validator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grad566&repo=Data-validator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Grad566/geodocer-proxy-server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grad566&repo=geodocer-proxy-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Grad566/Data-validator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grad566&repo=Data-validator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
