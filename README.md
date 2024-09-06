@@ -10,8 +10,8 @@ I understand OOP, know java se well, know how to use git and gitHub Actions, kno
 * ✉️  You can contact me at [3008denis@gmail.com](mailto:3008denis@gmail.com)
 * 🚀  I'm currently working on [geo-coding-proxy-server](https://github.com/Grad566/geodocer-proxy-server)
 * 🧠  I'm learning Spring boot
-* 💼  My pet projects: [spring project](https://github.com/Grad566/Task-manager), [Page-Analyzer](https://github.com/Grad566/Page-Analyzer), [Data-validator](https://github.com/Grad566/Data-validator), [Difference-Calculator](https://github.com/Grad566/Difference-Calculator), [Mind-games](https://github.com/Grad566/Mind-games)
-* 📗  My test assignments: [auto-backend-trainee-assignment](https://github.com/Grad566/auto-backend-trainee-assignment), [task-manager-api](https://github.com/Grad566/task-manager-test-assigmnet), [geo-coding-proxy-server](https://github.com/Grad566/geodocer-proxy-server)
+* 💼  My pet projects:[Page-Analyzer](https://github.com/Grad566/Page-Analyzer), [Data-validator](https://github.com/Grad566/Data-validator), [Difference-Calculator](https://github.com/Grad566/Difference-Calculator), [Mind-games](https://github.com/Grad566/Mind-games)
+* 📗  My test assignments: [task-manager-api](https://github.com/Grad566/task-manager-test-assigmnet), [auto-backend-trainee-assignment](https://github.com/Grad566/auto-backend-trainee-assignment), [geo-coding-proxy-server](https://github.com/Grad566/geodocer-proxy-server)
 
 ### Skills
 
