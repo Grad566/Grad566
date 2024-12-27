@@ -7,10 +7,7 @@ Java Backend Developer
 
 * 🌍  I'm based in Ekaterinburg
 * ✉️  You can contact me at [3008denis@gmail.com](mailto:3008denis@gmail.com)
-* 🚀  I'm currently working on [geo-coding-proxy-server](https://github.com/Grad566/geodocer-proxy-server)
-* 🧠  I'm learning Kafka
-* 💼  My pet projects:[Page-Analyzer](https://github.com/Grad566/Page-Analyzer), [Data-validator](https://github.com/Grad566/Data-validator), [Difference-Calculator](https://github.com/Grad566/Difference-Calculator), [Mind-games](https://github.com/Grad566/Mind-games)
-* 📗  My test assignments: [task-manager-api](https://github.com/Grad566/task-manager-test-assigmnet), [auto-backend-trainee-assignment](https://github.com/Grad566/auto-backend-trainee-assignment), [geo-coding-proxy-server](https://github.com/Grad566/geodocer-proxy-server)
+
 
 ### Skills
 
