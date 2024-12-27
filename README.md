@@ -27,10 +27,3 @@ Java Backend Developer
 
 <a href="http://www.github.com/Grad566"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Grad566&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Grad566/geodocer-proxy-server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grad566&repo=geodocer-proxy-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Grad566/Task-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grad566&repo=Task-manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Grad566/auto-backend-trainee-assignment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grad566&repo=auto-backend-trainee-assignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Grad566/Difference-Calculator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grad566&repo=Difference-Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
