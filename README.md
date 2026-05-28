@@ -9,19 +9,19 @@ Java Backend Developer
 * ✉️  You can contact me at [3008denis@gmail.com](mailto:3008denis@gmail.com)
 
 My repositories
-https://github.com/Grad566/Get-Job-Bot
-https://github.com/Grad566/MapReduce
-https://github.com/Grad566/RingBuffer
-https://github.com/Grad566/Flutter-chat-app-
-https://github.com/Grad566/Short-link
-https://github.com/Grad566/TCP-Echo-Server
-https://github.com/Grad566/RedisMap
-https://github.com/Grad566/CSV-generator
-https://github.com/Grad566/task-manager-test-assigmnet
-https://github.com/Grad566/geocoder-proxy-server
-https://github.com/Grad566/auto-backend-trainee-assignment
-https://github.com/Grad566/Page-Analyzer
-https://github.com/Grad566/Difference-Calculator
+- https://github.com/Grad566/Get-Job-Bot
+- https://github.com/Grad566/MapReduce
+- https://github.com/Grad566/RingBuffer
+- https://github.com/Grad566/Flutter-chat-app-
+- https://github.com/Grad566/Short-link
+- https://github.com/Grad566/TCP-Echo-Server
+- https://github.com/Grad566/RedisMap
+- https://github.com/Grad566/CSV-generator
+- https://github.com/Grad566/task-manager-test-assigmnet
+- https://github.com/Grad566/geocoder-proxy-server
+- https://github.com/Grad566/auto-backend-trainee-assignment
+- https://github.com/Grad566/Page-Analyzer
+- https://github.com/Grad566/Difference-Calculator
 
 ### Skills
 
